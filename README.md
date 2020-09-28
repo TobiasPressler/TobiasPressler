@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 
 ## 🔔 My Recent Github Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#177](https://github.com/DataCoveEU/API4INSPIRE/pull/177) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
+2. 🗣 Commented on [#113](https://github.com/DataCoveEU/API4INSPIRE/issues/113) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
+3. 💪 Opened PR [#177](https://github.com/DataCoveEU/API4INSPIRE/pull/177) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
+4. 🎉 Merged PR [#33](https://github.com/DataCoveEU/STAM/pull/33) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
+5. 💪 Opened PR [#33](https://github.com/DataCoveEU/STAM/pull/33) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 <!--END_SECTION:activity-->
