@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 5. 💪 Opened PR [#33](https://github.com/DataCoveEU/STAM/pull/33) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 <!--END_SECTION:activity-->
 
-## My Github Stats
+## :trophy: My Github Stats
 
 <img align="left" alt="TobiasPressler's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TobiasPressler&show_icons=true&hide_border=true" />
