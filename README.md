@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 4. 🎉 Merged PR [#33](https://github.com/DataCoveEU/STAM/pull/33) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 5. 💪 Opened PR [#33](https://github.com/DataCoveEU/STAM/pull/33) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 <!--END_SECTION:activity-->
+
+## My Github Stats
+
+<img align="left" alt="LukasGaebler's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LukasGaebler&show_icons=true&hide_border=true" />
