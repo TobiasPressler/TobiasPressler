@@ -3,6 +3,8 @@ name: GitHub Activity
 on:
   schedule:
     - cron: '30 * * * *'
+  push:
+    branches: [ master ]
 
 jobs:
   build:
