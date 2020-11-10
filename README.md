@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 🔔 My Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/DataCoveEU/API4INSPIRE/pull/179) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
-2. 🗣 Commented on [#138](https://github.com/DataCoveEU/API4INSPIRE/issues/138) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
-3. 🎉 Merged PR [#177](https://github.com/DataCoveEU/API4INSPIRE/pull/177) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
-4. 🗣 Commented on [#113](https://github.com/DataCoveEU/API4INSPIRE/issues/113) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
-5. 💪 Opened PR [#177](https://github.com/DataCoveEU/API4INSPIRE/pull/177) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
+1. 🎉 Merged PR [#35](https://github.com/DataCoveEU/STAM/pull/35) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
+2. 💪 Opened PR [#35](https://github.com/DataCoveEU/STAM/pull/35) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
+3. 💪 Opened PR [#179](https://github.com/DataCoveEU/API4INSPIRE/pull/179) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
+4. 🗣 Commented on [#138](https://github.com/DataCoveEU/API4INSPIRE/issues/138) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
+5. 🎉 Merged PR [#177](https://github.com/DataCoveEU/API4INSPIRE/pull/177) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
 <!--END_SECTION:activity-->
 
 ## :trophy: My Github Stats
