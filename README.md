@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 🔔 My Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/DataCoveEU/STAM/pull/36) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
-2. 💪 Opened PR [#36](https://github.com/DataCoveEU/STAM/pull/36) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
-3. 🎉 Merged PR [#35](https://github.com/DataCoveEU/STAM/pull/35) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
-4. 💪 Opened PR [#35](https://github.com/DataCoveEU/STAM/pull/35) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
-5. 💪 Opened PR [#179](https://github.com/DataCoveEU/API4INSPIRE/pull/179) in [DataCoveEU/API4INSPIRE](https://github.com/DataCoveEU/API4INSPIRE)
+1. ❗️ Opened issue [#281](https://github.com/snobu/destreamer/issues/281) in [snobu/destreamer](https://github.com/snobu/destreamer)
+2. 🎉 Merged PR [#36](https://github.com/DataCoveEU/STAM/pull/36) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
+3. 💪 Opened PR [#36](https://github.com/DataCoveEU/STAM/pull/36) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
+4. 🎉 Merged PR [#35](https://github.com/DataCoveEU/STAM/pull/35) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
+5. 💪 Opened PR [#35](https://github.com/DataCoveEU/STAM/pull/35) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 <!--END_SECTION:activity-->
 
 ## :trophy: My Github Stats
