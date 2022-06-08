@@ -1,6 +1,7 @@
 name: GitHub Activity
 
 on:
+  push:
   schedule:
     - cron: '0 0 * * *'
 
