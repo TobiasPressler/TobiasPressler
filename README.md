@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 4. 🗣 Commented on [#34](https://github.com/DataCoveEU/STAM/issues/34) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 5. 🗣 Commented on [#14](https://github.com/DataCoveEU/STAM/issues/14) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 <!--END_SECTION:activity-->
-
+<!--
 ## :trophy: My Github Stats
 
 <img align="left" alt="TobiasPressler's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TobiasPressler&show_icons=true&hide_border=true" />
+-->
