@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ## 🔔 My Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/DataCoveEU/STAM/pull/38) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
-2. 💪 Opened PR [#38](https://github.com/DataCoveEU/STAM/pull/38) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
-3. 🎉 Merged PR [#37](https://github.com/DataCoveEU/STAM/pull/37) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
-4. 🗣 Commented on [#34](https://github.com/DataCoveEU/STAM/issues/34) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
+1. 🎉 Merged PR [#42](https://github.com/DataCoveEU/STAM/pull/42) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
+2. 🗣 Commented on [#39](https://github.com/DataCoveEU/STAM/issues/39) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
+3. 🎉 Merged PR [#41](https://github.com/DataCoveEU/STAM/pull/41) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
+4. 💪 Opened PR [#41](https://github.com/DataCoveEU/STAM/pull/41) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 5. 🗣 Commented on [#14](https://github.com/DataCoveEU/STAM/issues/14) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 <!--END_SECTION:activity-->
 <!--
