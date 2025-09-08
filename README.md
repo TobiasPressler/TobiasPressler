@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🔔 My Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/DataCoveEU/STAM/pull/42) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
+1. 🗣 Commented on [#81763](https://github.com/vercel/next.js/issues/81763#issuecomment-3264872819) in [vercel/next.js](https://github.com/vercel/next.js)
 2. 🗣 Commented on [#39](https://github.com/DataCoveEU/STAM/issues/39) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 3. 🎉 Merged PR [#41](https://github.com/DataCoveEU/STAM/pull/41) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 4. 💪 Opened PR [#41](https://github.com/DataCoveEU/STAM/pull/41) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
