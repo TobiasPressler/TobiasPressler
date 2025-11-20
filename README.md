@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🔔 My Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#759](https://github.com/suren-atoyan/monaco-react/issues/759#issuecomment-3396702955) in [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react)
+1. 💪 Opened PR [#216](undefined) in [typesense/typesense-go](https://github.com/typesense/typesense-go)
 2. 🗣 Commented on [#39](https://github.com/DataCoveEU/STAM/issues/39) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 3. 🎉 Merged PR [#41](https://github.com/DataCoveEU/STAM/pull/41) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 4. 💪 Opened PR [#41](https://github.com/DataCoveEU/STAM/pull/41) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
