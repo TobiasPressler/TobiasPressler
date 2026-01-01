@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🔔 My Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#216](undefined) in [typesense/typesense-go](https://github.com/typesense/typesense-go)
+1. 🎉 Merged PR [#216](https://github.com/typesense/typesense-go/pull/216) in [typesense/typesense-go](https://github.com/typesense/typesense-go)
 2. 💪 Opened PR [#216](undefined) in [typesense/typesense-go](https://github.com/typesense/typesense-go)
 3. 🎉 Merged PR [#41](https://github.com/DataCoveEU/STAM/pull/41) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 4. 💪 Opened PR [#41](https://github.com/DataCoveEU/STAM/pull/41) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
