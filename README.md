@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ## 🔔 My Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#216](https://github.com/typesense/typesense-go/pull/216) in [typesense/typesense-go](https://github.com/typesense/typesense-go)
-2. 💪 Opened PR [#216](undefined) in [typesense/typesense-go](https://github.com/typesense/typesense-go)
+1. 🔒 Closed issue [#8](https://github.com/jitingcn/SlimeVR-Tracker-nRF/issues/8) in [jitingcn/SlimeVR-Tracker-nRF](https://github.com/jitingcn/SlimeVR-Tracker-nRF)
+2. ❗ Opened issue [#8](https://github.com/jitingcn/SlimeVR-Tracker-nRF/issues/8) in [jitingcn/SlimeVR-Tracker-nRF](https://github.com/jitingcn/SlimeVR-Tracker-nRF)
 3. 🎉 Merged PR [#41](https://github.com/DataCoveEU/STAM/pull/41) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 4. 💪 Opened PR [#41](https://github.com/DataCoveEU/STAM/pull/41) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
 5. 🗣 Commented on [#14](https://github.com/DataCoveEU/STAM/issues/14) in [DataCoveEU/STAM](https://github.com/DataCoveEU/STAM)
