@@ -48,35 +48,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TobiasPressler&theme=github_dark" />
-    <img alt="Repos per language" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TobiasPressler&theme=github" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TobiasPressler&theme=github_dark" />
-    <img alt="Most commit language" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TobiasPressler&theme=github" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TobiasPressler&theme=github_dark" />
-    <img alt="Stats" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TobiasPressler&theme=github" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TobiasPressler&theme=github_dark&utcOffset=2" />
-    <img alt="Productive time" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TobiasPressler&theme=github&utcOffset=2" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TobiasPressler&hide_border=true&theme=github-dark-blue" />
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=TobiasPressler&hide_border=true" />
-  </picture>
-</p>
-
 ## 🐍 Watch My Contributions Get Eaten
 
 <p align="center">
